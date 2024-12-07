@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "scripts": {
+    "test": "jest --colors"
+  },
+  "dependencies": {
+    "fastify": "*",
+    "lodash": "*",
+    "@faker-js/faker": "*",
+    "@fastify/view": "*",
+    "pug": "*",
+    "@fastify/formbody": "*",
+    "crypto-js": "*",
+    "html-minifier": "*",
+    "yup": "*",
+    "@playwright/test": "*"
+  }
+}
